@@ -1,0 +1,2 @@
+Tema T1: Sa se determine minimul pentru urmatoarele functii: De Jong 1, Schwefel's, Rastrigin's, Michalewicz's 
+implementand algoritmii Hill Climbing (variantele first improvement, best improvement si worst improvement) si Simulated Annealing (hibridizant una dintre variantele de Hill Climbing, la alegere). Analizati versiunile 5, 10 si 30-dimensionale ale functiilor (poate incercati si versiunea 100-dimensionala, ca o margine superioara). Folositi o precizie de reprezentare de minim 5 zecimale dupa 0. 
